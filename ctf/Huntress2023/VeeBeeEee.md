@@ -2,7 +2,7 @@
 layout: post
 title: VeeBeeEee
 date: 23 Nov 2023
-tags: #huntress2023 #malware #vbe
+tags: huntress2023 malware vbe sed
 ---
 
 ![Challenge Text for VeeBeeEee](/docs/assets/images/Huntress2023/VeeBeeEee/Challenge.png)

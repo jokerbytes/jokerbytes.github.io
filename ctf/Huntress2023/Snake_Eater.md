@@ -2,7 +2,7 @@
 layout: post 
 title: Snake Eater
 date: 23 Nov 2023
-tags: #huntress2023 #malware #pyinstaller
+tags: huntress2023 malware pyinstaller
 ---
 
 ![Challenge Text for Snake Eater](/docs/assets/images/Huntress2023/SnakeEater/SnakeEater_Challenge.png)
