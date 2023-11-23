@@ -6,4 +6,5 @@ layout: default
 ---
 # Huntress2023
 
-[Snake Eater](./ctf/Snake_Eater.html)
+[Snake Eater](./ctf/Huntress2023/Snake_Eater.html)\
+[VeeBeeEee](./ctf/Huntress2023/VeeBeeEee.html)
