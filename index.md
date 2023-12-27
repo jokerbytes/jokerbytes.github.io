@@ -7,4 +7,5 @@ layout: default
 # Huntress2023
 
 [Snake Eater](./ctf/Huntress2023/Snake_Eater.html)\
-[VeeBeeEee](./ctf/Huntress2023/VeeBeeEee.html)
+[VeeBeeEee](./ctf/Huntress2023/VeeBeeEee.html)\
+[Texas Chainsaw Massacre: Tokyo Drift](./ctf/Huntress2023/TexasChainsawMassacre:TokyoDrift.html)
